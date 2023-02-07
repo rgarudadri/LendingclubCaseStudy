@@ -12,5 +12,5 @@
 4. Bivariate Analysis
 5. Insights & Recommendations
 
-## Contact
-- Ramakrishna Garudadri
+## Created By
+- Ramakrishna Garudadri (rgarudadri@github.com)
